@@ -21,9 +21,7 @@ export default function FrontPage() {
           worldwide in <br />a few taps
         </h1>
         <p className="a text-gray-400 text-xl md:text-2xl pb-10">
-          CryptoGoal is a goal keeping tool that assists <br />
-          user with creating accountability <br />
-          smark contacts
+        Worldwide mobile recharge: send credit <br/>and data to any phone
         </p>
         <button className=" bg-green-500 w-44 text-white text-md font-black px-5 rounded-md py-3">
           START NOW
@@ -39,8 +37,8 @@ export default function FrontPage() {
           <Link className=" cursor-pointer" href="/">
             <a>
               <li className="flex justify-between items-center">
-                <div className="flex items-center">
-                  <FaBatteryHalf /> International mobile top-up
+                <div className="flex items-center gap-1">
+                  <FaBatteryHalf  className="text-green-500"/> International mobile top-up
                 </div>
                 <div>
                   <FaArrowRight />
@@ -51,8 +49,8 @@ export default function FrontPage() {
           <Link className=" cursor-pointer" href="/">
             <a>
               <li className="flex justify-between items-center">
-                <div className="flex items-center">
-                  <FaBatteryHalf /> Mobile top-up
+                <div className="flex items-center gap-1">
+                  <FaBatteryHalf  className="text-green-500"/> Mobile top-up
                 </div>
                 <div>
                   <FaArrowRight />
@@ -63,8 +61,8 @@ export default function FrontPage() {
           <Link className=" cursor-pointer" href="/">
             <a>
               <li className="flex justify-between items-center">
-                <div className="flex items-center">
-                  <FaBatteryHalf /> International mobile top-up
+                <div className="flex items-center gap-1">
+                  <FaBatteryHalf  className="text-green-500"/> Entertainment
                 </div>
                 <div>
                   <FaArrowRight />
@@ -75,8 +73,8 @@ export default function FrontPage() {
           <Link className=" cursor-pointer" href="/">
             <a>
               <li className="flex justify-between items-center">
-                <div className="flex items-center">
-                  <FaBatteryHalf /> International mobile top-up
+                <div className="flex items-center gap-1">
+                  <FaBatteryHalf  className="text-green-500"/>Shopping
                 </div>
                 <div>
                   <FaArrowRight />
@@ -87,8 +85,8 @@ export default function FrontPage() {
           <Link className=" cursor-pointer" href="/">
             <a>
               <li className="flex justify-between items-center">
-                <div className="flex items-center">
-                  <FaBatteryHalf /> International mobile top-up
+                <div className="flex items-center gap-1">
+                  <FaBatteryHalf  className="text-green-500"/> Gaming
                 </div>
                 <div>
                   <FaArrowRight />
@@ -99,8 +97,8 @@ export default function FrontPage() {
           <Link className=" cursor-pointer" href="/">
             <a>
               <li className="flex justify-between items-center">
-                <div className="flex items-center">
-                  <FaBatteryHalf /> International mobile top-up
+                <div className="flex items-center gap-1">
+                  <FaBatteryHalf  className="text-green-500"/> Prepaid credit card
                 </div>
                 <div>
                   <FaArrowRight />
